@@ -10,10 +10,10 @@ body {
 
 .emailme {
   color: black;
-  width: 210px;
+  width: 100px;
   height: 40px;
   position: fixed;
-  top: 30px;
+  top: 20px;
   right: 20px;
   padding: 10px 10px 1px 10px;
   text-align: center;
@@ -25,22 +25,15 @@ body {
 h1 {
   font-size: 16px;
   margin: 0 auto;
-  position: relative;
-  top: 80px;
   z-index: 4;
   }
+
+.gray {
+  color: gray;
+}
   
 .emailme:hover {
-  color: black;
-  width: 210px;
-  height: 40px;
-  position: fixed;
-  top: 30px;
-  right: 20px;
-  padding: 10px 10px 1px 10px;
-  text-align: center;
-  font-size: 11px;
-  background-color: transparent;
+  background-color: white;
   }
   
 img {
@@ -49,7 +42,7 @@ img {
   display: inline-block;
   margin: 0 auto;
   position: relative;
-  top: 120px;
+  top: 20px;
   }
   
 .textbox {
