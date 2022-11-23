@@ -11,6 +11,10 @@ body {
   margin: auto 30px;
 }
 
+#drawing p {
+  margin: 10;
+}
+
 .emailme {
   color: black;
   width: 100px;
